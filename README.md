@@ -1,70 +1,149 @@
-# Hi there 👋, I'm Qasim Ali
+# Hi, I'm Qasim Ali 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimali-infinikorn&label=Profile%20views&color=0e75b6&style=flat" alt="qasimali-infinikorn" /> </p>
 
-## 🚀 About Me
 
-I'm a Full-Stack Software Engineer passionate about building scalable web applications, SaaS platforms, AI-powered solutions, and modern user experiences.
+### Senior Full-Stack Engineer | Rails, React, Next.js | AI Integrations | SaaS Architect
 
-* 🔭 Currently working on SaaS products, AI integrations, and Rails/Next.js applications
-* 🌱 Currently learning advanced AI workflows, LLM integrations, and cloud architecture
-* 👯 Looking to collaborate on innovative web and AI projects
-* 💬 Ask me about Ruby on Rails, Next.js, React, PostgreSQL, Docker, and SaaS development
-* 📫 Reach me at: **[qasim.ali@infinikorn.com](mailto:qasim.ali@infinikorn.com)**
-* ⚡ Fun fact: I enjoy turning complex business ideas into scalable software products
+I build scalable SaaS products, AI-powered applications, and modern web platforms from concept to production.
+
+With expertise across backend architecture, frontend development, cloud infrastructure, and AI integrations, I enjoy transforming complex business problems into intuitive digital experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Focus
+
+* Building AI-powered applications and workflows
+* Developing scalable SaaS platforms
+* Creating interactive learning and engagement experiences
+* Architecting modern Rails & Next.js applications
+* Exploring AI Agents and LLM integrations
+
+---
+
+## 💼 Featured Projects
+
+### 🚀 TeleSesh Spark
+
+An AI-powered learning and engagement platform focused on creating interactive experiences for children, therapists, educators, and facilitators.
+
+**Highlights**
+
+* AI Resource Studio
+* Interactive Games Generator
+* Real-time Collaboration
+* Session Management
+* Next.js + Rails Architecture
+
+---
+
+### 🤖 AI Resource Studio
+
+A conversational AI platform that generates:
+
+* Interactive Games
+* Worksheets
+* Quizzes
+* PPT Presentations
+* PDF Workbooks
+* DOCX Handouts
+
+using natural language prompts.
+
+---
+
+### ⚡ SaaS Automation Platforms
+
+Designed and developed scalable business applications focused on:
+
+* Workflow Automation
+* CRM Solutions
+* Customer Portals
+* Subscription Management
+* AI Integrations
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend
 
-* Ruby on Rails
-* Node.js
-* Express.js
-* REST APIs
-* GraphQL
+<p>
+  <img src="https://skillicons.dev/icons?i=rails,ruby,nodejs,postgres,redis" />
+</p>
 
 ### Frontend
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-
-### Database
-
-* PostgreSQL
-* MySQL
-* Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+</p>
 
 ### Cloud & DevOps
 
-* Docker
-* AWS
-* GitHub Actions
-* CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git" />
+</p>
 
-### AI & Automation
+### AI & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
 
 * OpenAI
-* Claude AI
-* AI Chatbots
+* Claude
+* LangChain
+* AI Agents
+* Prompt Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimali-infinikorn&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimali-infinikorn&show_icons=true&theme=github_dark"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimali-infinikorn&layout=compact&theme=github_dark"/>
+</div>
+---
+
+## 🎯 What I Enjoy Building
+
+* SaaS Products
+* AI-Powered Applications
+* Learning Platforms
+* Business Automation Systems
+* Developer Tools
+* Interactive Experiences
+
+---
+
+## 🌱 Currently Learning
+
+* AI Agents & Multi-Agent Systems
+* Advanced LLM Architectures
+* RAG Systems
 * Workflow Automation
+* Modern Product Engineering
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let's Connect
 
-![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qasimali-infinikorn\&show_icons=true\&theme=github_dark)
+I'm always interested in discussing:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimali-infinikorn\&layout=compact\&theme=github_dark)
+* Product Development
+* SaaS Architecture
+* AI Integrations
+* Startup Ideas
+* Engineering Leadership
 
----
-
-## 🤝 Connect With Me
-
+📧 [qasim.ali@infinikorn.com](mailto:qasim.ali@infinikorn.com)
 * GitHub: https://github.com/qasimali-infinikorn
 * Email: [qasim.ali@infinikorn.com](mailto:qasim.ali@infinikorn.com)
+
+---
+
+> “Great software is not just about code—it's about creating experiences that solve real problems.”
 
 ---
 
