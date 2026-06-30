@@ -99,18 +99,13 @@ Designed and developed scalable business applications focused on:
 
 ## 📊 GitHub Stats
 
-<!--
-  Stats are served by self-hosted instances so they don't 503 and so private/org
-  contributions are counted. After deploying (see notes below), replace:
-    YOUR-STATS-INSTANCE.vercel.app   -> your github-readme-stats deployment
-    YOUR-STREAK-INSTANCE.vercel.app  -> your github-readme-streak-stats deployment
-  Until then these fall back to the public instances (public data only, may rate-limit).
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/qasimali-infinikorn?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/qasimali-infinikorn?label=Stars&style=for-the-badge&color=0e75b6&logo=github" alt="Stars" />
+</p>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=qasimali-infinikorn&theme=github-dark-blue" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=qasimali-infinikorn&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimali-infinikorn&layout=compact&count_private=true&theme=github_dark" alt="Top Languages" />
 </div>
 
 
