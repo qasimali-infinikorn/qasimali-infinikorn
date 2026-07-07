@@ -1,7 +1,6 @@
 # Hi, I'm Qasim Ali 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimali-infinikorn&label=Profile%20views&color=0e75b6&style=flat" alt="qasimali-infinikorn" /> </p>
 
-
 ### Senior Full-Stack Engineer | Rails, React, Next.js | AI Integrations | SaaS Architect
 
 I build scalable SaaS products, AI-powered applications, and modern web platforms from concept to production.
