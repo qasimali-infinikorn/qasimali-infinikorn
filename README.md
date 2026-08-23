@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="qasimali-infinikorn's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi, I'm Qasim Ali 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimali-infinikorn&label=Profile%20views&color=0e75b6&style=flat" alt="qasimali-infinikorn" /> </p>
 
