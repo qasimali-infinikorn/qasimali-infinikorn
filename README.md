@@ -15,7 +15,7 @@ With expertise across backend architecture, frontend development, cloud infrastr
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" alt="Fire" />
 
 * Building AI-powered applications and workflows
 * Developing scalable SaaS platforms
@@ -131,7 +131,7 @@ Designed and developed scalable business applications focused on:
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25" alt="Comet" />
 
 * AI Agents & Multi-Agent Systems
 * Advanced LLM Architectures
@@ -141,7 +141,7 @@ Designed and developed scalable business applications focused on:
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" alt="Handshake" />
 
 I'm always interested in discussing:
 
