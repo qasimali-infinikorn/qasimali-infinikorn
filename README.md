@@ -117,10 +117,6 @@ Designed and developed scalable business applications focused on:
   <img src="https://streak-stats.demolab.com/?user=qasimali-infinikorn&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</div>
-
 
 ---
 
